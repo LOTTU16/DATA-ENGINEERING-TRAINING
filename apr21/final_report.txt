@@ -1,0 +1,13 @@
+----- FINAL REPORT -----
+
+Top Employee: Row(emp_id=4, name='Priya', department='Finance', salary=80000, joining_date=datetime.date(2022, 12, 20))
+Average Salary: 66428.57142857143
+
+Department Employee Count:
+HR : 2
+None : 1
+Finance : 1
+IT : 3
+
+Total Sales: 244000
+Best Sales Employee: Row(emp_id=1, sum(amount)=162000)
